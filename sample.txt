@@ -1,3 +1,4 @@
 Line from master
 Line from A
 Line from B
+3nd Line from A
